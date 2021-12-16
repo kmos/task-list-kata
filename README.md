@@ -1,9 +1,5 @@
 # Task List &nbsp;
 
-This is an example of code obsessed with primitives.
-
-A *primitive* is any concept technical in nature, and not relevant to your business domain. This includes integers, characters, strings, and collections (lists, sets, maps, etc.), but also things like threads, readers, writers, parsers, exceptions, and anything else purely focused on technical concerns. By contrast, the business concepts in this project, "task", "project", etc. should be considered part of your *domain model*. The domain model is the language of the business in which you operate, and using it in your code base helps you avoid speaking different languages, helping you to avoid misunderstandings. In our experience, misunderstandings are the biggest cause of bugs.
-
 ## Exercise
 
 Try implementing the following features, refactoring primitives away as you go. Try not to implement any new behaviour until the code you're about to change has been completely refactored to remove primitives, i.e. **_Only refactor the code you're about to change, then make your change. Don't refactor unrelated code._**
